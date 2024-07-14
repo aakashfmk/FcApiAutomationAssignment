@@ -1,0 +1,6 @@
+2024-07-14 17:02:12 DEBUG org.fancode.ApiUtils - Total Todos: 20, Completed Todos: 11
+2024-07-14 17:02:12 INFO  org.fancode.FcApiTest - User ID: 1, Completion Percentage: 55.0
+2024-07-14 17:02:12 DEBUG org.fancode.ApiUtils - Total Todos: 20, Completed Todos: 12
+2024-07-14 17:02:12 INFO  org.fancode.FcApiTest - User ID: 5, Completion Percentage: 60.0
+2024-07-14 17:02:12 DEBUG org.fancode.ApiUtils - Total Todos: 20, Completed Todos: 12
+2024-07-14 17:02:12 INFO  org.fancode.FcApiTest - User ID: 10, Completion Percentage: 60.0
